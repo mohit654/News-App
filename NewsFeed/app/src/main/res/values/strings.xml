@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="settings_category_label">Select Category</string>
+    <string name="settings_category_world_label">World</string>
+    <string name="settings_category_politics_label">Politics</string>
+    <string name="settings_category_education_label">Education</string>
+    <string name="settings_category_sport_label">Sports</string>
+    <string name="settings_category_football_label">Football</string>
+    <string name="settings_category_opinion_label">Opinion</string>
+    <string name="settings_category_culture_label">Culture</string>
+    <string name="settings_category_business_label">Business</string>
+    <string name="settings_category_lifestyle_label">LifeStyle</string>
+    <string name="settings_category_fashion_label">Fashion</string>
+    <string name="settings_category_environment_label">Environment</string>
+    <string name="settings_category_tech_label">Technology</string>
+    <string name="settings_category_travel_label">Travel</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="no_internet">No Internet Connection.</string>
+    <string name="no_news">No Result Found.</string>
+</resources>
